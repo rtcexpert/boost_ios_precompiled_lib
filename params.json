@@ -1,0 +1,6 @@
+{
+  "name": "Boost ios precompiled lib",
+  "tagline": "A boost Precompiled library for all iOS architectures (armv7 i386 x86_64 arm64). ",
+  "body": "# boost_ios_precompiled_lib\r\nA boost Precompiled library for all iOS architectures (armv7 i386 x86_64 arm64). \r\n\r\n# lipo -info lib/boost.a\r\nArchitectures in the fat file: ios/boost.a are: armv7 i386 x86_64 arm64\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
